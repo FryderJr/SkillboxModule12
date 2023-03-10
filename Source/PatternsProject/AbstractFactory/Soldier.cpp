@@ -30,6 +30,7 @@ void ASoldier::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	
 }
 
 AEliteSoldier::AEliteSoldier()
